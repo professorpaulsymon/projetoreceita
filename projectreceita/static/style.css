@@ -1,0 +1,23 @@
+.imagem-carousel{
+	object-position: 0 80%;
+	object-fit: cover;
+	height: 550px;
+}
+
+.texto-legenda{
+	color: white;
+	font-family: 'Pacifico', cursive;
+}
+
+.texto-inicio{
+	font-family: 'Pacifico', cursive;
+}
+
+.cor-especial{
+	color: #A61B0C;
+}
+
+.imagem-card{
+	object-fit: cover;
+	height: 400px;
+}
