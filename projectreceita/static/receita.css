@@ -1,0 +1,14 @@
+.imagem{
+	width: 80%;
+	height: 500px;
+	object-fit: cover;
+}
+
+.margem{
+	margin-right: 10%;
+	margin-left: 10%;
+}
+
+.margem-direita{
+	margin-right: 10%;
+}
